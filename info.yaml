@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     413849515516143617       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Zero Dead Zone PFD"      # Project title
+  title:        "Two PFD"      # Project title
   author:       "Soumobrata Ghosh"      # Your name
   discord:      "soumobrata"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "A zero Dead zone PFD"      # One line description of what your project does
+  description:  "A zero Dead zone PFD and a basic PFD"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
