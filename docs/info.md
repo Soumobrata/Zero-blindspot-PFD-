@@ -11,11 +11,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A basic phase frequency Dtector
+
+
 
 ## How to test
 
-Explain how to use your project
+If VCO is leading DN would be high and if REF is leading UP would be high
+
 
 ## External hardware
 
