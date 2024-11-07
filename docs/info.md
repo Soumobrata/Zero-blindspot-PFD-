@@ -1,4 +1,4 @@
-A basic phase frequency Dtector
+A zero blind spot phase frequency Detector
 
 <!---
 
